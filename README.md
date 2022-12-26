@@ -1,16 +1,24 @@
-# flutter_sqlite
+# TUGAS SQLFLITE
 
-A new Flutter project.
+NAMA : MILA YUNITA <br>
+KELAS/ABSEN : TI-3C/13 <br>
+MATA KULIAH : PEMOGRAMAN MOBILE
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## HASIL OUTPUT
+1. Tampilan Awal Aplikasi <br>
+<img src="images/1.jpeg" alt="" width="300"> <br> <br>
+2. Tampilan ketika mengklik tombol "Tambah Item" <br>
+<img src="images/create.jpeg" alt="" width="300"> <br> <br>
+3. Melakukan tambah data, kemudian mengklik tombol Save. <br>
+<img src="images/create2.jpeg" alt="" width="300"> <br> <br>
+4. Data berhasil ditambahkan. <br>
+<img src="images/hasilCreate.jpeg" alt="" width="300"> <br> <br>
+5. Melakukan Edit data dengan mengubah harga buku tulis yang semula 5000 menjadi 7000. <br>
+<img src="images/edit.jpeg" alt="" width="300"> <br> <br>
+6. Harga buku tulis berubah menjadi 7000. <br>
+<img src="images/hasilEdit.jpeg" alt="" width="300"> <br> <br>
+7. Melakukan hapus data. Pertama, menambahkan data baru bernama Pembatas Buku, kemudian menghapusnya dengan menkan ikon delete pada data Pembatas Buku.<br>
+<img src="images/hapus.jpeg" alt="" width="300"> <br> <br>
+8 Data Pembatas Buku berhasil dihapus. <br>
+<img src="images/hapus2.jpeg" alt="" width="300"> <br> <br>
